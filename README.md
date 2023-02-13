@@ -2,7 +2,7 @@
 
 Notas sobre os cursos do Programa de cursos integrados Mathematics for Machine Learning and Data Science
 
-## Linear Algebra for Machine Learning and Data Science
+## [Linear Algebra for Machine Learning and Data Science](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_for_ml_ds.ipynb)
 Tópicos abordados:
 - Week 1 System of linear equations: System of sentences, System of equations, System of equations as lines, A geometric notion of singularity, Singular vs nonsingular matrices, Linear dependence and independence, The determinan, System of equations (3x3), Singular vs non-singular matrices (3x3), System of equations as planes (3x3), Linear dependence and independence (3x3), The determinant (3x3)
 
@@ -11,10 +11,10 @@ Tópicos abordados:
 - Week 4 Determinants and Eigenvectors
 
 
-## Calculus for Machine Learning and Data Science
+## [Calculus for Machine Learning and Data Science](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/calculus_for_ml_ds.ipynb)
 
 
-## Probability & Statistics for Machine Learning & Data Science
+## [Probability & Statistics for Machine Learning & Data Science](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/prob_statistic_for_ml_ds.ipynb)
 
 
 # Referência
