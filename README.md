@@ -17,3 +17,5 @@ Tópicos abordados:
 ## Probability & Statistics for Machine Learning & Data Science
 Tópicos abordados:
 - 
+# Referência
+https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
