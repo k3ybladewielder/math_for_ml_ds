@@ -10,12 +10,12 @@ Tópicos abordados:
 - Week 3 Vectors and Linear Transformations
 - Week 4 Determinants and Eigenvectors
 
+
 ## Calculus for Machine Learning and Data Science
-Tópicos abordados:
-- 
+
 
 ## Probability & Statistics for Machine Learning & Data Science
-Tópicos abordados:
-- 
+
+
 # Referência
 https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
