@@ -14,7 +14,7 @@ Tópicos abordados:
 ## [Calculus for Machine Learning and Data Science](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/calculus_for_ml_ds/calculus_for_ml_ds.ipynb)
 
 
-## [Probability & Statistics for Machine Learning & Data Science](https://github.com/k3ybladewielder/math_for_ml_ds/tree/main/prob_statistic_for_ml_ds)
+## [Probability & Statistics for Machine Learning & Data Science](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/prob_statistic_for_ml_ds/prob_statistic_for_ml_ds.ipynb)
 
 
 # Referência
