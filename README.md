@@ -18,4 +18,4 @@ Tópicos abordados:
 
 
 # Referência
-https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
+DeeplearningAI <https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science>
