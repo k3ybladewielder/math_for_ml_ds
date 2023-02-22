@@ -21,3 +21,5 @@ Tópicos abordados:
 
 # Referência
 DeeplearningAI <https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science>
+
+# [Licença CC BY-NC-SA](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/LICENSE)
