@@ -10,7 +10,7 @@ Tópicos abordados:
 
 - Week 3 Vectors and Linear Transformations: Vector Algebra, Vectors and their properties, Sum and difference of vectors, Distance between vectors, Multiplying a vector by a scalar, The dot product, Geometric dot product, Multiplying a matrix by a vector, Linear Transformations, Matrices as linear transformations, Linear transformations as matrices, Matrix multiplication, The identity matrix , Matrix inverse , Neural networks and matrices
 
-- Week 4 Determinants and Eigenvectors: 
+- Week 4 Determinants and Eigenvectors: Singularity and rank of linear transformations, Determinant as an area, Determinant of a product, Determinants of inverses, Bases in linear algebra, Span in linear algebra, Eigenbases, Eigenvalues and Eigenvectors
 
 
 ## [Calculus for Machine Learning and Data Science](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/calculus_for_ml_ds/calculus_for_ml_ds.ipynb)
