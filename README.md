@@ -20,6 +20,6 @@ Tópicos abordados:
 
 
 # Referência
-DeeplearningAI <https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science>
+[Algebra Linear for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra/) @ DeeplearningAi
 
 # [Licença CC BY-NC-SA](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/LICENSE)
