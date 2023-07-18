@@ -14,6 +14,6 @@ Notas sobre os cursos do Programa de cursos integrados Mathematics for Machine L
 - [Probability & Statistics for Machine Learning & Data Science](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/prob_statistic_for_ml_ds/prob_statistic_for_ml_ds.ipynb)
 
 # Referência
-[Algebra Linear for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra/) @ DeeplearningAi
+[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) @ DeeplearningAi
 
 # [Licença CC BY-NC-SA](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/LICENSE)
