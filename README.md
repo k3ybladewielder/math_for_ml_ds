@@ -15,4 +15,4 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 ## Resources 🧰
 
 ## Licence
-- **Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA]**(https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/LICENSE)
+- **Attribution-NonCommercial-ShareAlike 4.0 International** [**CC BY-NC-SA**](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/LICENSE)
