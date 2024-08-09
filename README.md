@@ -23,6 +23,8 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 - [**Probability & Statistics for Machine Learning & Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/prob_statistic_for_ml_ds/prob_statistic_for_ml_ds.ipynb)
 
 ## Resources 🧰
+- [**Matemática Ensino Fundamental (BNCC)  @ Khan Academy**](https://pt.khanacademy.org/math/brazil-math-grade)
+- [**Matemática Ensino Médio (BNCC) @ Khan Academy**](https://pt.khanacademy.org/math/em-matematica-bncc)
 - [**Essence of linear algebra @ 3Blue1Brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [**Essence of calculus @ 3Blue1Brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
