@@ -16,6 +16,7 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 - **Probabilistic Machine Learning Advanced Topics de Kevin P. Murphy**
 - **Probabilistic Machine Learning An Introduction, de Kevin P. Murphy**
 - **The Elements of Statistical Learning, de Trevor Hastie, Robert Tibshirani e Jerome Friedman**
+- **[Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244), de Andreas Krause, Jonas Hübotter**
 
 # Courses 🧑‍💻
 - [**Linear Algebra for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_for_ml_ds/linear_algebra_for_ml_ds.ipynb)
