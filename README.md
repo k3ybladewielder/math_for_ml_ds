@@ -2,20 +2,25 @@
 
 Este repositório possui anotações, resumos, fichamentos e insights **pessoais** sobre estudos. Ele não possui materiais derivados.
 
-# Books 📚
+# Mathematics Books 📚
+## Statistics
 - **An Introduction to Statistical Learning de Gareth James, Daniela Witten, Trevor Hastie e Robert Tibshirani**
-- **Aprendizado de Máquina Uma Abordagem Estatística de Rafael Izbicki e Tiago Mendonça dos Santos**
 - **Estatística Básica, de Bussab e Morettin**
+- **Practical Statistics for Data Scientists de Peter Bruce, Andrew Bruce e Peter Gedeck**
+- **The Elements of Statistical Learning, de Trevor Hastie, Robert Tibshirani e Jerome Friedman**
+
+## Linear Algebra
 - **Introduction to Applied Linear Algebra. Vectors, Matrices, and Least Squares de Stephen Boyd e Lieven Vandenberghe**
 - **Linear Algebra and Optimization for Machine Learning de Charu C. Aggarwal**. [Fichamento](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_optimization_ml/linear_algebra_optimization_ml.ipynb) 📜
 - **Linear Algebra: Theory, Intuition, Code de Mike X Cohen**
-- **Mathematical Foundations of Data Sciences de Gabriel Peyré**
-- **Mathematics For Machine Learning de Marc Peter Deisenroth, A. Aldo Faisal e Cheng Soon Ong**
+
+## Machine Learning
+- **Aprendizado de Máquina Uma Abordagem Estatística de Rafael Izbicki e Tiago Mendonça dos Santos**
 - **Mãos à Obra: Aprendizado de Máquina com Scikit-learn & TensorFlow de Aurélion Géron**
-- **Practical Statistics for Data Scientists de Peter Bruce, Andrew Bruce e Peter Gedeck**
 - **Probabilistic Machine Learning Advanced Topics de Kevin P. Murphy**
 - **Probabilistic Machine Learning An Introduction, de Kevin P. Murphy**
-- **The Elements of Statistical Learning, de Trevor Hastie, Robert Tibshirani e Jerome Friedman**
+- **Mathematical Foundations of Data Sciences de Gabriel Peyré**
+- **Mathematics For Machine Learning de Marc Peter Deisenroth, A. Aldo Faisal e Cheng Soon Ong**
 - **[Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244), de Andreas Krause, Jonas Hübotter**
 
 # Courses 🧑‍💻
