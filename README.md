@@ -3,33 +3,38 @@
 Este repositório possui anotações, resumos, fichamentos e insights **pessoais** sobre estudos. Ele não possui materiais derivados.
 
 # Mathematics Books 📚
-## Statistics
-- **An Introduction to Statistical Learning de Gareth James, Daniela Witten, Trevor Hastie e Robert Tibshirani**
-- **Estatística Básica, de Bussab e Morettin**
-- **Practical Statistics for Data Scientists de Peter Bruce, Andrew Bruce e Peter Gedeck**
-- **The Elements of Statistical Learning, de Trevor Hastie, Robert Tibshirani e Jerome Friedman**
-- **Applied Predictive Modeling. Max Kuhn, Kjell Johnson. Springer 2013**
+### Statistics
+- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning.* Springer.
+- Bussab, W. O., & Morettin, P. A. (2017). *Estatística básica.* Saraiva Uni.  
+- Bruce, P., Bruce, A., & Gedeck, P. (2020). *Practical statistics for data scientists.* O'Reilly Media. 
+- Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The elements of statistical learning.* Springer.  
+- Kuhn, M., & Johnson, K. (2013). *Applied predictive modeling.* Springer.  
 
-## Linear Algebra
-- **Introduction to Applied Linear Algebra. Vectors, Matrices, and Least Squares de Stephen Boyd e Lieven Vandenberghe**
-- **Linear Algebra and Optimization for Machine Learning de Charu C. Aggarwal**. [Fichamento](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_optimization_ml/linear_algebra_optimization_ml.ipynb) 📜
-- **Linear Algebra: Theory, Intuition, Code de Mike X Cohen**
+### Linear Algebra
+- Boyd, S., & Vandenberghe, L. (2018). *Introduction to applied linear algebra: Vectors, matrices, and least squares*. Cambridge University Press.
+- Aggarwal, C. C. (2021). Linear algebra and optimization for machine learning. Springer Nature BV . [Fichamento](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_optimization_ml/linear_algebra_optimization_ml.ipynb) 📜
+- Cohen, M. X. (2021). Linear algebra: Theory, intuition, code. Sincxpress BV.
 
-## Machine Learning
-- **Aprendizado de Máquina Uma Abordagem Estatística de Rafael Izbicki e Tiago Mendonça dos Santos**
-- **Mãos à Obra: Aprendizado de Máquina com Scikit-learn & TensorFlow de Aurélion Géron**
-- **Probabilistic Machine Learning An Introduction, de Kevin P. Murphy**
-- **Probabilistic Machine Learning Advanced Topics de Kevin P. Murphy**
-- **Mathematical Foundations of Data Sciences de Gabriel Peyré**
-- **Mathematics For Machine Learning de Marc Peter Deisenroth, A. Aldo Faisal e Cheng Soon Ong**
-- **[Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244), de Andreas Krause, Jonas Hübotter**
+### Machine Learning
+- Izbicki, R., & Santos, T. M. (2022). Aprendizado de máquina: Uma abordagem estatística. UICLAP.
+- Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). Mathematics for machine learning. Cambridge University Press.
+- Krause, A., & Hübotter, J. (Ano). Probabilistic artificial intelligence. Retrieved from https://arxiv.org/abs/2502.05244
+- Géron, A. (2019). Mãos à obra: Aprendizado de máquina com Scikit-Learn & TensorFlow. Alta Books.
+- Murphy, K. P. (2023). Probabilistic machine learning: Advanced topics. MIT Press.
+- Murphy, K. P. (2022). Probabilistic machine learning: An introduction. MIT Press.
+- Peyré, G. (2021). Mathematical foundations of data sciences. CNRS & DMA.
 
-## Otimização
-- **CARTER, M. W.; PRICE, C. C.; RABADI, G.**. *Operations Research: A Practical Introduction.* 2. ed. Boca Raton: CRC Press, 2029.  
-- **BIERLAIRE, M.**. *Optimization: Principles and Algorithms.* Lausanne: EPFL Press, 2018.  
-- **POLER, R.; MULA, J.; DÍAZ-MADROÑERO, M.**. *Operations Research Problems: Statements and Solutions.* London: Springer-Verlag, 2014.  
-- **MARTINS, J. R. R. A.; NING, A.**. *Engineering Design Optimization.* Cambridge: Cambridge University Press, 2021.  
-- **Manual de uso da biblioteca Pyomo para Programação Matemática, Claudemir Woche V. Carvalho e Anselmo R. Pitombeira Neto**
+## Optimization
+- Carter, M. W., Price, C. C., & Rabadi, G. (2029). *Operations research: A practical introduction* (2nd ed.). CRC Press.
+- Bierlaire, M. (2018). *Optimization: Principles and algorithms*. EPFL Press.
+- Poler, R., Mula, J., & Díaz-Madroñero, M. (2014). *Operations research problems: Statements and solutions*. Springer-Verlag.
+- Martins, J. R. R. A., & Ning, A. (2021). *Engineering design optimization*. Cambridge University Pres
+- Manual de uso da biblioteca Pyomo para Programação Matemática, Claudemir Woche V. Carvalho e Anselmo R. Pitombeira Neto
+
+## Bioinspired Optimization
+- Eiben, A. E., & Smith, J. E. (2015). *Introduction to evolutionary computing* (2nd ed.). Springer.  
+- Eberhart, R. C., Shi, Y., & Kennedy, J. (2001). *Swarm intelligence.* Morgan Kaufmann.  
+
 
 # Courses 🧑‍💻
 - [**Linear Algebra for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_for_ml_ds/linear_algebra_for_ml_ds.ipynb)
