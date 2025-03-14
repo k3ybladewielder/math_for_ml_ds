@@ -12,7 +12,7 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 
 ### Linear Algebra
 - Boyd, S., & Vandenberghe, L. (2018). *Introduction to applied linear algebra: Vectors, matrices, and least squares*. Cambridge University Press.
-- Aggarwal, C. C. (2021). Linear algebra and optimization for machine learning. Springer Nature BV . [Fichamento](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_optimization_ml/linear_algebra_optimization_ml.ipynb) 📜
+- Aggarwal, C. C. (2021). Linear algebra and optimization for machine learning. Springer Nature BV. [Fichamento](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_optimization_ml/linear_algebra_optimization_ml.ipynb) 📜
 - Cohen, M. X. (2021). Linear algebra: Theory, intuition, code. Sincxpress BV.
 
 ### Machine Learning
@@ -33,7 +33,11 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 
 ## Bioinspired Optimization
 - Eiben, A. E., & Smith, J. E. (2015). *Introduction to evolutionary computing* (2nd ed.). Springer.  
-- Eberhart, R. C., Shi, Y., & Kennedy, J. (2001). *Swarm intelligence.* Morgan Kaufmann.  
+- Eberhart, R. C., Shi, Y., & Kennedy, J. (2001). *Swarm intelligence.* Morgan Kaufmann.
+
+## Decision Theory
+
+## Causal Inference
 
 
 # Courses 🧑‍💻
