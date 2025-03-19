@@ -36,6 +36,11 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 - Eberhart, R. C., Shi, Y., & Kennedy, J. (2001). *Swarm intelligence.* Morgan Kaufmann.
 
 ## Decision Theory
+- Hansson, S. O. (2005). *Decision Theory. A Brief Introduction*. Royal Institute of Technology.
+- Peterson, M. (2017). *An Introduction to Decision Theory*. (2nd ed.). Cambridge University Press.
+- Takemura, K. (2014). *Behavioral Decision Theory. Psycological and Mathematical Description of Human Choice Behavior*. Springer.
+- Bacci, S., & Chiandotto B. (2020). *Introduction to Statistical Decision Theory. Utility Theory and Causal Analysis*. CRC Press.
+
 
 ## Causal Inference
 
