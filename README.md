@@ -3,19 +3,19 @@
 Este repositório possui anotações, resumos, fichamentos e insights **pessoais** sobre estudos. Ele não possui materiais derivados.
 
 # Mathematics Books 📚
-### Statistics
+## Statistics
 - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning.* Springer.
 - Bussab, W. O., & Morettin, P. A. (2017). *Estatística básica.* Saraiva Uni.  
 - Bruce, P., Bruce, A., & Gedeck, P. (2020). *Practical statistics for data scientists.* O'Reilly Media. 
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The elements of statistical learning.* Springer.  
 - Kuhn, M., & Johnson, K. (2013). *Applied predictive modeling.* Springer.  
 
-### Linear Algebra
+## Linear Algebra
 - Boyd, S., & Vandenberghe, L. (2018). *Introduction to applied linear algebra: Vectors, matrices, and least squares*. Cambridge University Press.
 - Aggarwal, C. C. (2021). Linear algebra and optimization for machine learning. Springer Nature BV. [Fichamento](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/linear_algebra_optimization_ml/linear_algebra_optimization_ml.ipynb) 📜
 - Cohen, M. X. (2021). Linear algebra: Theory, intuition, code. Sincxpress BV.
 
-### Machine Learning
+## Machine Learning
 - Izbicki, R., & Santos, T. M. (2022). Aprendizado de máquina: Uma abordagem estatística. UICLAP.
 - Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). Mathematics for machine learning. Cambridge University Press.
 - Krause, A., & Hübotter, J. (Ano). Probabilistic artificial intelligence. Retrieved from https://arxiv.org/abs/2502.05244
@@ -42,7 +42,7 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 - Bacci, S., & Chiandotto B. (2020). *Introduction to Statistical Decision Theory. Utility Theory and Causal Analysis*. CRC Press.
 
 
-## Causal Inference
+### Causal Inference
 
 
 # Courses 🧑‍💻
