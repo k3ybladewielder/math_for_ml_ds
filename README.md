@@ -18,7 +18,7 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 ## Machine Learning
 - Izbicki, R., & Santos, T. M. (2022). Aprendizado de máquina: Uma abordagem estatística. UICLAP.
 - Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). Mathematics for machine learning. Cambridge University Press.
-- Krause, A., & Hübotter, J. (Ano). Probabilistic artificial intelligence. Retrieved from https://arxiv.org/abs/2502.05244
+- Krause, A., & Hübotter, J. (2025). Probabilistic artificial intelligence. Retrieved from https://arxiv.org/abs/2502.05244
 - Géron, A. (2019). Mãos à obra: Aprendizado de máquina com Scikit-Learn & TensorFlow. Alta Books.
 - Murphy, K. P. (2023). Probabilistic machine learning: Advanced topics. MIT Press.
 - Murphy, K. P. (2022). Probabilistic machine learning: An introduction. MIT Press.
