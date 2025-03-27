@@ -55,6 +55,7 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 - [**Matemática Ensino Médio (BNCC) @ Khan Academy**](https://pt.khanacademy.org/math/em-matematica-bncc)
 - [**Essence of linear algebra @ 3Blue1Brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [**Essence of calculus @ 3Blue1Brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [**Análise Real - Curso**](https://www.youtube.com/playlist?list=PLXJiRYhBbhtX_ycUrBMbupydPfW-YK8TF)
 
 ## Licence
 - **Attribution-NonCommercial-ShareAlike 4.0 International** [**CC BY-NC-SA**](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/LICENSE)
